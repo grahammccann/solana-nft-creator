@@ -2,9 +2,10 @@
 
 > The easiest way to create and mint NFTs on Solana  
 > 👉 **Start here:** https://www.solana-nft-creator.com/
-
-[![Create Solana NFT](https://img.shields.io/badge/Create-Solana%20NFTs-00c2ff?style=for-the-badge)](https://www.solana-nft-creator.com/)
-[![No Code Required](https://img.shields.io/badge/No-Code-Required-success?style=for-the-badge)](https://www.solana-nft-creator.com/)
+> 
+[![Create Solana NFTs](https://img.shields.io/badge/Create-Solana%20NFTs-00c2ff?style=for-the-badge&logo=solana&logoColor=white)](https://www.solana-nft-creator.com/)
+[![No Code](https://img.shields.io/badge/No--Code-NFT%20Creator-success?style=for-the-badge)](https://www.solana-nft-creator.com/)
+![Built on Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 ---
 
