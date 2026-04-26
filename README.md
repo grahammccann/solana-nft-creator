@@ -1,114 +1,59 @@
-# 🚀 Create Solana NFTs Without Coding | Solana NFT Creator
+# 🚀 Solana NFT Creator
 
-> The easiest way to create and mint NFTs on Solana  
-> 👉 **Start here:** https://www.solana-nft-creator.com/
-> 
-[![Create Solana NFTs](https://img.shields.io/badge/Create-Solana%20NFTs-00c2ff?style=for-the-badge&logo=solana&logoColor=white)](https://www.solana-nft-creator.com/)
-[![No Code](https://img.shields.io/badge/No--Code-NFT%20Creator-success?style=for-the-badge)](https://www.solana-nft-creator.com/)
-![Built on Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-
----
-
-## 🧠 What Is This?
-
-**Solana NFT Creator** is a simple online tool that allows anyone to:
-
-- Create Solana NFTs  
-- Mint NFTs instantly  
-- Upload NFT metadata and images  
-- Launch NFTs without coding  
-
-👉 Try it now: https://www.solana-nft-creator.com/
-
----
-
-## 🔍 Keywords This Tool Targets
-
-Create Solana NFT  
-Mint NFT Solana  
-Solana NFT creator  
-Create NFT without coding  
-Solana NFT minting tool  
-How to create NFT Solana  
-Solana NFT generator  
-
----
-
-## ⚡ Features
-
-- 🖼️ Upload NFT images directly  
-- 🧾 Automatic metadata creation  
-- 🔗 IPFS storage (Pinata integration)  
-- 👛 Phantom wallet connection  
-- ⚡ Fast Solana minting  
-- 💸 Secure on-chain payment verification  
-- 🔒 Built using Solana SPL Token Program  
-- 🌐 Clean, beginner-friendly interface  
-
----
-
-## 📸 How To Create a Solana NFT
-
-1. Visit https://www.solana-nft-creator.com/  
-2. Connect your Phantom wallet  
-3. Upload your NFT image  
-4. Enter name, description, and attributes  
-5. Confirm payment  
-6. Your NFT is minted instantly  
-
----
-
-## 🧠 How It Works (Simple Explanation)
-
-This tool handles the entire NFT minting process for you:
-
-- Upload → Image stored on IPFS  
-- Metadata → Generated automatically  
-- Mint → Created on Solana blockchain  
-- NFT → Sent directly to your wallet  
-
-No coding. No CLI tools. No confusion.
-
----
-
-## 🎯 Who This Is For
-
-- NFT creators  
-- Artists launching collections  
-- Solana beginners  
-- Founders testing NFT ideas  
-- Developers who want a faster workflow  
-
----
-
-## 🌐 Create Your NFT Now
+Create and mint NFTs on Solana without writing code.
 
 👉 https://www.solana-nft-creator.com/
 
 ---
 
-## ❓ Why Use This Instead of Coding?
+## 🧠 Overview
 
-Traditional NFT creation requires:
+Solana NFT Creator is a simple web tool that lets you create and mint NFTs directly on the Solana blockchain.
 
-- Solana CLI setup  
-- Rust or JS knowledge  
-- Smart contract understanding  
-- Manual metadata handling  
-
-This tool removes all of that.
+It handles the full process from upload to minting, so you don’t need to use CLI tools or write smart contracts.
 
 ---
 
-## 🚀 Related Tools
+## ⚡ Features
 
-If you're exploring Solana tools:
+- Upload NFT images  
+- Automatic metadata generation  
+- IPFS storage (Pinata)  
+- Phantom wallet connection  
+- Fast on-chain minting  
 
-- Token creators  
-- Volume boosters  
-- Wallet utilities  
+---
 
-(Coming soon…)
+## 🔄 How It Works
+
+1. Connect your wallet  
+2. Upload your NFT  
+3. Enter basic details  
+4. Confirm transaction  
+5. NFT is minted to your wallet  
+
+---
+
+## 🎯 Who It’s For
+
+- Artists and creators  
+- Solana beginners  
+- Developers who want a faster workflow  
+
+---
+
+## 🛠️ Tech Stack
+
+- Solana blockchain  
+- SPL Token Program  
+- IPFS (Pinata)  
+- Web3 wallet integration  
+
+---
+
+## ⚠️ Disclaimer
+
+This tool provides NFT creation functionality only. Users are responsible for how NFTs are used and any applicable legal considerations.
 
 ---
 
